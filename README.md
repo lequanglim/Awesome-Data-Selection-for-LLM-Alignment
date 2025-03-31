@@ -9,9 +9,9 @@
 ## 1. 🔍 Data Quality Filtering  
 | Title | Method | Dataset | Key Findings | Resources |
 |-------|--------|---------|--------------|-----------|
-| [Entropy Law: The Story Behind Data Compression and LLM Performance](https://arxiv.org/pdf/2406.14115) | Data compression rate (entropy) as quality proxy | C4, Pile | High-compression data boosts performance (+12%) | [PDF](https://arxiv.org/pdf/2406.14115) |
-| [Less is More: Improving LLM Alignment via Preference Data Selection](https://arxiv.org/pdf/2402.05123) | Reward model confidence filtering | Anthropic HH | 30% high-quality data achieves full-data performance | [PDF](https://arxiv.org/pdf/2402.05123) [Code](https://github.com/alon-albalak/data-selection-survey) |
-| [Principled Data Selection: The Hidden Risks of Difficult Examples](https://openreview.net/pdf?id=hTBD3LYoqd) | Hard example distribution shift analysis | Reddit, StackExchange | Hard examples may harm OOD generalization | [PDF](https://openreview.net/pdf?id=hTBD3LYoqd) |
+| [Entropy Law: The Story Behind Data Compression and LLM Performance](https://arxiv.org/pdf/2407.06645) | Data compression rate (entropy) as quality proxy | C4, Pile | High-compression data boosts performance (+12%) | [PDF](https://arxiv.org/pdf/2407.06645) [Code](https://github.com/USTC-StarTeam/ZIP)|
+| [Less is More: Improving LLM Alignment via Preference Data Selection](https://arxiv.org/abs/2502.14560) | Reward model confidence filtering | Anthropic HH | 30% high-quality data achieves full-data performance | [PDF](https://arxiv.org/abs/2502.14560)|
+| [Principled Data Selection: The Hidden Risks of Difficult Examples](https://arxiv.org/abs/2502.09650) | Hard example distribution shift analysis | Reddit, StackExchange | Hard examples may harm OOD generalization | [PDF](https://arxiv.org/abs/2502.09650) [Code](https://github.com/glorgao/SelectiveDPO)|
 
 ## 2. 🌈 Data Diversity Optimization  
 | Title | Method | Dataset | Key Findings | Resources |
