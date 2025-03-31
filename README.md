@@ -34,5 +34,5 @@
 ## 5. 📐 Theoretical Insights  
 | Title | Key Contribution | Resources |
 |-------|------------------|-----------|
-| [What Makes Good Data for Alignment?](https://arxiv.org/pdf/2408.02085) | Defines "Informativeness-Diversity-Safety" triad | [PDF](https://arxiv.org/pdf/2408.02085) |
-| [Rethinking Data Shapley for Data Selection](https://openreview.net/pdf?id=hTBD3LYoqd) | Improved Shapley value computation | [PDF](https://openreview.net/pdf?id=hTBD3LYoqd) |
+| [What Makes Good Data for Alignment?](https://openreview.net/forum?id=BTKAeLqLMw) | Defines "Informativeness-Diversity-Safety" triad | [PDF](https://openreview.net/forum?id=BTKAeLqLMw) |
+| [Rethinking Data Shapley for Data Selection](https://proceedings.mlr.press/v235/wang24cg.html) | Improved Shapley value computation | [PDF](https://proceedings.mlr.press/v235/wang24cg.html) |
