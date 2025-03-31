@@ -1,5 +1,5 @@
 # Awesome Data Selection for LLM Alignment
-[![PR Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen)](https://github.com/bruno686/Awesome-RL-based-LLM-Reasoning/pulls)
+[![PR Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen)]
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
