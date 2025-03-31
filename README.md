@@ -12,7 +12,7 @@
 | [Entropy Law: The Story Behind Data Compression and LLM Performance](https://arxiv.org/pdf/2407.06645) | Data compression rate (entropy) as quality proxy | C4, Pile | High-compression data boosts performance (+12%) | [PDF](https://arxiv.org/pdf/2407.06645) [Code](https://github.com/USTC-StarTeam/ZIP)|
 | [Less is More: Improving LLM Alignment via Preference Data Selection](https://arxiv.org/abs/2502.14560) | Reward model confidence filtering | Anthropic HH | 30% high-quality data achieves full-data performance | [PDF](https://arxiv.org/abs/2502.14560)|
 | [Principled Data Selection: The Hidden Risks of Difficult Examples](https://arxiv.org/abs/2502.09650) | Hard example distribution shift analysis | Reddit, StackExchange | Hard examples may harm OOD generalization | [PDF](https://arxiv.org/abs/2502.09650) [Code](https://github.com/glorgao/SelectiveDPO)|
-| [Larger or Smaller Reward Margins to Select Preferences for Alignment?](https://arxiv.org/abs/2503.01864)| --- | AlpacaEval 2, Arena-Hard | Align potential is important | [PDF](https://arxiv.org/pdf/2503.01864) [Code](https://github.com/Hesse73/Alignment-Potential-Metric)
+| [Larger or Smaller Reward Margins to Select Preferences for Alignment?](https://arxiv.org/abs/2503.01864)| Compute the gap between explicit reward and implicit reward | AlpacaEval 2, Arena-Hard | Align potential is important | [PDF](https://arxiv.org/pdf/2503.01864) [Code](https://github.com/Hesse73/Alignment-Potential-Metric)
 
 ## 2. 🌈 Data Diversity Optimization  
 | Title | Method | Dataset | Key Findings | Resources |
