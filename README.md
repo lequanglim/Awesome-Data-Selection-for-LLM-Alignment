@@ -16,7 +16,7 @@
 ## 2. 🌈 Data Diversity Optimization  
 | Title | Method | Dataset | Key Findings | Resources |
 |-------|--------|---------|--------------|-----------|
-| [Harnessing Diversity for Important Data Selection](https://openreview.net/forum?id=bMC1t7eLRc) | Embedding similarity-based sampling | The Pile | Improves cross-domain generalization (+8%) | [PDF](https://openreview.net/forum?id=bMC1t7eLRc)|
+| [Harnessing Diversity for Important Data Selection](https://openreview.net/forum?id=bMC1t7eLRc) | Embedding similarity-based sampling | Slimpajama | Improves cross-domain generalization (+8%) | [PDF](https://openreview.net/forum?id=bMC1t7eLRc)|
 | [Adapt-∞: Dynamic Data Selection for Continual Learning](https://arxiv.org/pdf/2410.10636) | Dynamic selection in continual learning | COCO, LAION | Reduces catastrophic forgetting (↓15%) | [PDF](https://arxiv.org/pdf/2410.10636) [Code](https://github.com/adymaharana/adapt-inf) |
 
 ## 3. ⚖️ Alignment-Specific Selection  
