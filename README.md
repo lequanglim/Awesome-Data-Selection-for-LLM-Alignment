@@ -16,8 +16,8 @@
 ## 2. 🌈 Data Diversity Optimization  
 | Title | Method | Dataset | Key Findings | Resources |
 |-------|--------|---------|--------------|-----------|
-| [Harnessing Diversity for Important Data Selection](#) | Embedding similarity-based sampling | The Pile | Improves cross-domain generalization (+8%) | [PDF](https://arxiv.org/pdf/2408.02085) |
-| [Adapt-∞: Dynamic Data Selection for Continual Learning](https://www.cs.princeton.edu/~smalladi/blog/2024/04/04/dataselection/) | Dynamic selection in continual learning | COCO, LAION | Reduces catastrophic forgetting (↓15%) | [PDF](https://arxiv.org/pdf/2406.14115) [Code](https://github.com/princeton-nlp/LESS) |
+| [Harnessing Diversity for Important Data Selection](https://openreview.net/forum?id=bMC1t7eLRc) | Embedding similarity-based sampling | The Pile | Improves cross-domain generalization (+8%) | [PDF](https://openreview.net/forum?id=bMC1t7eLRc)|
+| [Adapt-∞: Dynamic Data Selection for Continual Learning](https://arxiv.org/pdf/2410.10636) | Dynamic selection in continual learning | COCO, LAION | Reduces catastrophic forgetting (↓15%) | [PDF](https://arxiv.org/pdf/2410.10636) [Code](https://github.com/adymaharana/adapt-inf) |
 
 ## 3. ⚖️ Alignment-Specific Selection  
 | Title | Method | Dataset | Key Findings | Resources |
