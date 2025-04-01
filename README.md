@@ -36,7 +36,7 @@
 ### 5. 📐 Theoretical Insights  
 | Title | Key Contribution | Resources |  
 |-------|------------------|-----------|  
-| [What Makes Good Data for Alignment?](https://openreview.net/forum?id=BTKAeLqLMw) | Defines "Informativeness-Diversity-Safety" triad | [PDF](https://openreview.net/forum?id=BTKAeLqLMw) |  
+| [What Makes Good Data for Alignment?](https://openreview.net/forum?id=BTKAeLqLMw) | Defines "Informativeness-Diversity-Safety" triad | [PDF](https://openreview.net/forum?id=BTKAeLqLMw) [Code]https://github.com/hkust-nlp/deita|  
 | [Rethinking Data Shapley for Data Selection](https://proceedings.mlr.press/v235/wang24cg.html) | Improved Shapley value computation | [PDF](https://proceedings.mlr.press/v235/wang24cg.html) |  
 
 ---
