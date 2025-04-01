@@ -45,8 +45,7 @@
 ### 6. 🧹 Data Filter  
 #### 6.1 📊 **Metric Innovation**  
 | Title | Method | Dataset | Key Findings | Resources |  
-|-------|--------|---------|--------------|-----------|  
-| [Entropy Law: The Story Behind Data Compression and LLM Performance](https://arxiv.org/pdf/2407.06645) | Entropy-based compression rate | C4, Pile | High-entropy data correlates with model performance | [PDF](https://arxiv.org/pdf/2407.06645) |  
+|-------|--------|---------|--------------|-----------|    
 | [GE-EDGE: Gradient Estimation for Effective Data Filtering](https://arxiv.org/pdf/2502.12494) | Gradient-based importance scoring | C4, BooksCorpus | Identifies high-impact samples via gradients | [PDF](https://arxiv.org/pdf/2502.12494) |  
 | [WHAT MAKES GOOD DATA FOR ALIGNMENTA COMPREHENSIVE STUDY OF AUTOMATIC DATA SELECTION IN INSTRUCTION TUNING](https://arxiv.org/pdf/2312.15685) | Joint optimization of three metrics | Reddit, WikiText | Balances utility and diversity | [PDF](https://arxiv.org/pdf/2312.15685) [Code](https://github.com/hkust-nlp/deita) |  
 
@@ -56,7 +55,8 @@
 | [OI-Theory: Get More for Less](https://arxiv.org/pdf/2405.02774) | Influence function augmentation | Slimpajama | 20% data expansion with guarantees | [PDF](https://arxiv.org/pdf/2405.02774) [Code](https://anonymous.4open.science/r/DV4LLM-D761/) |   
 | [Take the Essence and Discard the Dross](https://openreview.net/forum?id=erqoeO6lFu) | Feature extraction & criterion design | Multi-Domain Text | Filters 40% redundant data | [PDF](https://openreview.net/pdf?id=erqoeO6lFu) |  
 | [Harnessing Diversity for Important Data Selection](https://openreview.net/forum?id=bMC1t7eLRc) | Embedding similarity sampling | Slimpajama | Enhances cross-domain generalization | [PDF](https://openreview.net/forum?id=bMC1t7eLRc) |  
-| [Adapt-∞: Dynamic Data Selection for Continual Learning](https://arxiv.org/pdf/2410.10636) | Dynamic task-specific selection | COCO, LAION | Mitigates catastrophic forgetting | [PDF](https://arxiv.org/pdf/2410.10636) [Code](https://github.com/adymaharana/adapt-inf) |  
+| [Adapt-∞: Dynamic Data Selection for Continual Learning](https://arxiv.org/pdf/2410.10636) | Dynamic task-specific selection | COCO, LAION | Mitigates catastrophic forgetting | [PDF](https://arxiv.org/pdf/2410.10636) [Code](https://github.com/adymaharana/adapt-inf) |
+| [Entropy Law: The Story Behind Data Compression and LLM Performance](https://arxiv.org/pdf/2407.06645) | Entropy-based compression rate | C4, Pile | High-entropy data correlates with model performance | [PDF](https://arxiv.org/pdf/2407.06645) |  
 
 ### 7. 🚀 Data Enhance  
 | Title | Method | Dataset | Key Findings | Resources |  
